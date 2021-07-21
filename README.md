@@ -1,1 +1,2 @@
-# Hindi-Voice-Assistant
+# DigiSquad
+I m a Desktop Voice Assistant 
